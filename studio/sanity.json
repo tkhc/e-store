@@ -1,8 +1,8 @@
 {
   "root": true,
   "api": {
-    "projectId": "ca8wc7iv",
-    "dataset": "production"
+    "projectId": "placeholder",
+    "dataset": "placeholder"
   },
   "project": {
     "name": "Next.JS E-commerce example",
